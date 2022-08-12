@@ -16,7 +16,7 @@ h1 {
 .container {
   margin-top: 30px;
   margin-bottom: 30px;
-  width: 30%;
+  width: 200px;
   margin-left: auto;
   margin-right: auto;
   background-color: white;
@@ -24,9 +24,7 @@ h1 {
 }
 
 .search {
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
+  width: 10px;
 }
 
 form {
@@ -36,7 +34,7 @@ form {
 input {
   padding: 15px 10px;
   outline: none;
-  width: 400px;
+  width: 140px;
 }
 
 .li-container {
